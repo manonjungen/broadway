@@ -1,4 +1,22 @@
-*{
+body{
   font-family: Verdana;
   text-align: center;
+}
+.header{
+  background-image:url("the-flatiron-building.png");
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+.section1 p{
+  font-size: 14px;
+}
+.section1 h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.section1 h3{
+  font-size: 23px;
+  font-weight: bold;
 }
